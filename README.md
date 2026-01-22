@@ -68,5 +68,5 @@ All usage data was aggregated to a **monthly, per-user level** to align with tel
 ---
 
 ## Author
-**[Your Name]**  
+**Lawrence Malcolm Killian**  
 Data Analyst / Data Scientist  
